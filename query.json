@@ -1,0 +1,57 @@
+[
+    {
+        "id": "q1",
+        "type": "yn",
+        "query": "uit có phải là trường đại học không ?"
+    },
+    {
+        "id": "q2",
+        "type": "yn",
+        "query": "lan có phải là sinh viên thuộc uit không ?"
+    },
+    {
+        "id": "q3",
+        "type": "yn",
+        "query": "uit có ngành khmt không ?"
+    },
+    {
+        "id": "q4",
+        "type": "wh",
+        "query": "trường cao đẳng là trường nào ?"
+    },
+    {
+        "id": "q5",
+        "type": "wh",
+        "query": "laptop mà minh thích là của ai ?"
+    },
+    {
+        "id": "q6",
+        "type": "wh",
+        "query": "laptop mà minh thích có gì ?"
+    },
+    {
+        "id": "q7",
+        "type": "wh",
+        "query": "bạn của lan học trường nào ?"
+    },
+    {
+        "id": "q8",
+        "type": "wh",
+        "query": "us có ngành nào ?"
+    },
+    {
+        "id": "q9",
+        "type": "wh",
+        "query": "bạn của lan có thích laptop của lan không ?"
+    },
+    {
+        "id": "q10",
+        "type": "wh",
+        "query": "trường đại học nào mà người có laptop minh thích đang theo học ?"
+    },
+    {
+        "id": "q11",
+        "type": "wh",
+        "query": "ai là bạn của người vừa là sinh viên đại học uit vừa sở hữu một chiếc laptop ?"
+    }
+]
